@@ -1,0 +1,22 @@
+So Here you definitely face Error within package installer IF YES Follow below steps :
+
+Step 1 :
+	- Check version of python(3.7.3)
+	- Python must be 64 bit Otherwise tensorflow never ever going to be installed it defiitely gives Error.
+
+Step 2 :
+	pip install tensorflow==2.0.0
+
+Step 3 :
+	pip install sklearn==0.0
+	pip install Pillow==8.0.1
+	pip install h5py==2.10.0
+
+Step 4 : 
+	pip install Keras==2.3.1
+
+
+- Now its ready to use.
+
+(If you got any errors then refer requirement.txt)
+
